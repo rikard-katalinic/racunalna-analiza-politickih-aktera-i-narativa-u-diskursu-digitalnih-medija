@@ -1,8 +1,8 @@
 # racunalna-analiza-politickih-aktera-i-narativa-u-diskursu-digitalnih-medija
 
-##Niže je navedena lista datoteka koje su nabrojane i opisane kao prilozi u originalnom radu.
+## Niže je navedena lista datoteka koje su nabrojane i opisane kao prilozi u originalnom radu.
 
-##Programski kodovi korišteni u eksperimentu  1
+## Programski kodovi korišteni u eksperimentu  1
 
 Prilog 1: Web scraping članaka s portala Index.hr
 File: web_scraper_index.py
@@ -23,7 +23,7 @@ Prilog 6: Vizualizacija rezultata
 File: plot_functions.py
 
 
-##Snimke zaslona programskih kodova eksperimenta 2
+## Snimke zaslona programskih kodova eksperimenta 2
 
 Prilog 1: Programski kod za ekstrakciju i filtriranje podataka iz excel dokumenta
 File: Prilog_1.png
