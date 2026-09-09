@@ -1,6 +1,6 @@
 # racunalna-analiza-politickih-aktera-i-narativa-u-diskursu-digitalnih-medija
 
-## Niže je navedena lista datoteka koje su nabrojane i opisane kao prilozi u originalnom radu.
+Niže je navedena lista datoteka koje su nabrojane i opisane kao prilozi u originalnom radu.
 
 ## Programski kodovi korišteni u eksperimentu  1
 
